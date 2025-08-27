@@ -78,7 +78,7 @@ jupyter lab
 This repository is largely based on the excellent materials from [Pablo Estrada's Advanced Causal Machine Learning repository](https://github.com/pabloestradac/causalml-advanced). We gratefully acknowledge Pablo's contributions to making these advanced methods accessible through clear examples and implementations.
 
 **Original Author**: [Pablo Estrada](https://www.pabloestrada.io/#about)  
-**Course Adaptation**: [Your Name/Institution]
+**Course Adaptation**: [Justin Eloriaga](https://www.justineloriaga.com)
 
 ## Resources
 
